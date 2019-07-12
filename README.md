@@ -1,6 +1,12 @@
 # Applying for financial aid on coursera 
 
 ## Everything between quotes you should change it 
+![1](images/1-2.PNG)
+![2](images/3.PNG)
+![3](images/4.PNG)
+![4](images/5.PNG)
+![5](images/6.jpg)
+![6](images/7.PNG)
 
 ## Why are you applying for Financial Aid? (150 words minimum required)
 Hello, my name is "your name" and I live in "your country", the country in development. I'm applying for Financial Aid for the course "Course name" because I do not have any special source of income and I don't earn enough money and I can't afford the full tuition at this time of my life and career.
