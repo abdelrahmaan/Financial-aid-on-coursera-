@@ -1,7 +1,6 @@
 # Applying for financial aid on coursera 
 
 ## Everything between quotes you should change it 
-Applying for financial aid on coursera 
 
 ## Why are you applying for Financial Aid? (150 words minimum required)
 Hello, my name is "your name" and I live in "your country", the country in development. I'm applying for Financial Aid for the course "Course name" because I do not have any special source of income and I don't earn enough money and I can't afford the full tuition at this time of my life and career.
