@@ -10,7 +10,7 @@
 
 ## Why are you applying for Financial Aid? (150 words minimum required)
 Hello, my name is "your name" and I live in "your country", the country in development. I'm applying for Financial Aid for the course "Course name" because I do not have any special source of income and I don't earn enough money and I can't afford the full tuition at this time of my life and career.
-Receiving Financial Aid for this course will help me get valuable knowledge in "write your career neme like machine learening" ,  and i searching for a job from a long time for earning money for taking this course, and i not find yet, and the time goes on, and receiving financial aid will allow me to focus on my studies and by taking it to allow to take off a paid internship and can take another course in machine learning path .
+Receiving Financial Aid for this course will help me get valuable knowledge in "write your career neme like machine learning" ,  and I am searching for a job from a long time for earning money for taking this course, and I haven't find one yet, and the time goes on, and receiving financial aid will allow me to focus on my studies and by taking it to allow to take off a paid internship and can take another course in machine learning path .
 I want to invest in my career and my education, but at this moment I can only invest my time to increase my knowledge and advance in my career and not the money. Hopefully this will change in the upcoming years because I'm ambitious, I want to increase my programming knowledge and new technologies, I'm eager to work and to advance in my career.
 
 
