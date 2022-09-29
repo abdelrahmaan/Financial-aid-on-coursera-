@@ -15,7 +15,7 @@ I want to invest in my career and my education, but at this moment I can only in
 
 
 ## How will taking this course help you achieve your career goals? (150 words minimum required)
-I have a solid background in "math and algorithms and problem-solving skills", so i eager to learn "machine learning" and that's the course the first step to me to making good projects that help the humanity for an easy life and solve the big problem. 
+I have a solid background in "math and algorithms and problem-solving skills", so I eager to learn "machine learning" and that's the course the first step to me to making good projects that help the humanity for an easy life and solve the big problem. 
 My main career goal is to learn every day, i really want to learn and to progress in my career.
 "Programming" requires constant learning and improving, taking a course can help me advance in my knowledge.
 
