@@ -23,4 +23,4 @@ I plan on gaining additional skills by taking related classes and continuing my 
 There are many opportunities in this field that the candidate can join but must have good knowledge to join these opportunities, so I see that this course with good tutorials and exercises to join me in the world's largest companies and creativity in this area
 
 ## If you answered no, please help us understand why.?
-Because there are alot of developing countries the average rate of income is low and not enough personal needs for home so it isn't enough to get paid courses, and we need a lot of free courses for learning and improving ourselves and hlep the humanity and society.
+Because there are alot of developing countries the average rate of income is low and not enough personal needs for home so it isn't enough to get paid courses, and we need a lot of free courses for learning and improving ourselves and help the humanity and society.
